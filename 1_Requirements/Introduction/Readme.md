@@ -8,14 +8,22 @@ Here we need some platform for execute the code properly in windows and linux al
 // I give some link in the LinksForSoftware
 
 
-// I give some link in the LinksForSoftware
 
 # Requirements
+The c programming language was used to create this Miniproject. Snake Game is a no-frills console game. We can play the popular "Snake Game" in this project in the same way we do in other places. To move the snake, we must utilise the right, left, up, and down arrows.
+
+The snake can devour the foods that are placed at various co-ordinates on the screen. The length of the snake, as well as the score, will grow by one element each time it consumes the food.
+
+This C Snake game mini project allows users to play the game with three lives. As the snake meets a wall or its own body, its life count diminishes. You can even pause the game in the middle of the game with any key in this small project. We can then press any key to continue.
+
+
+
+
 ## Introduction
  --- TBD 
 
 ## Research
-![https://stackoverflow.com/questions/33781720/making-a-quiz-game-in-c](Link to Pic)
+![https://www.codewithc.com/mini-project-in-c-snake-game/](Link to Pic)
 -- Content 
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
