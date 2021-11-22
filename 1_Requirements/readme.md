@@ -20,36 +20,41 @@ The player loses when the snake either runs into a border or its own body. Becau
 ![SWOT-Sample](Link to Pic)
 
 # 4W&#39;s and 1&#39;H
-
 ## Who:
-
-*TBD*
+person with electronic devices need games nowadays for refreshment and relaxing. So, anyone can play this game.
 
 ## What:
-
-*TBD*
+A game which can be used to check or enhance our general knowledge.
 
 ## When:
-
-*TBD*
+One can play this game whenever he/she is free and want some refreshment but also they want to do some productive work.
 
 ## Where:
-
-*TBD*
+It can be played by everyone and everywhere irrespective of their age
 
 ## How:
+one can simply enter his name and start playing
 
-*TBD*
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+Software Requirements:
+
+OPerating system : WINDOWS 8/9/10
+
+Application Software: TURBO C++ 2.0
+
+Language: C
+
+computer graphics Hardware Requirements: Hard disk : 32GB RAM: 128MB processor : Any pentium Version
+
+Many functions have been used in this Snake Game . Here, I will just list them below and describe the functions “gotoxy”, “GotoXY” and “delay” as they are some of the most important functions void record() void load() void Delay(long double) void Move() void Food() void Print() void Bend() int Score() void Boarder() void Down() void Left() void Up() void Right() void ExitGame()
+
+
+
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
 
 
 ## SNAKE GAME
