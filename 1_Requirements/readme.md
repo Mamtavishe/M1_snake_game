@@ -4,6 +4,53 @@ Here we need some platform for execute the code properly in windows and linux al
 3rd:- visual studio code must be marge with ubuntu linux system for implementation.
 4th:- in a visual studio code must be install c/c++ extention , Doxygen for language support , remote WSL.
 
+// I give some link in the LinksForSoftware
+
+// I give some link in the LinksForSoftware
+
+## Introduction
+
+The game called "Snake" or "Snake Game" typically involve the player controlling a line or snake, there is no official version of the game, so gameplay varies. The most common version of the game involves the snake or line eating items which make it longer, with the objective being to avoid running into a border or the snake itself for as long as possible.
+
+The player loses when the snake either runs into a border or its own body. Because of this, the game becomes more difficult as it goes on, due to the growth of the snake.Nokia has installed the "Snake Game" on many of its phones. The game is also available on several websites, including YouTube, which allows viewers to play the game while a video loads.
+
+## Cost and Features and Timeline
+## 
+## SWOT ANALYSIS
+![SWOT-Sample](Link to Pic)
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+*TBD*
+
+## What:
+
+*TBD*
+
+## When:
+
+*TBD*
+
+## Where:
+
+*TBD*
+
+## How:
+
+*TBD*
+
+# Detail requirements
+## High Level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
+
+
+##  Low level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
+
 
 ## SNAKE GAME
 Problem Statement
@@ -38,21 +85,6 @@ The player loses when the snake either runs into a border or its own body. Becau
 
 
 
-## Conclusion
-This Project in C language of Snake Game is a simple console application with very simple graphics. In this project, you can play the popular "Snake Game" just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.
-
-Foods are provided at the several co-ordinates of the screen for the snake to eat. Every time the snake eats the food, its length will by increased by one element along with the score. It isn't the world's greatest game, but it does give you an idea of what you can achieve with a relatively simple C program, and perhaps the basis by which to extend the principles and create more interesting games of your own.
-
-## FUTURE SCOPE
-Our project will be able to implement in future making some changes and modifications as we make my project at a very low level. So the modifications that can be done in my project are:
-
-after
-
-1.It can be made with good graphics.
-
-2.We can add more options like Top scores and Player Profile
-
-3.We can add multiplayer option
 
 ## REFERENCES
 References
