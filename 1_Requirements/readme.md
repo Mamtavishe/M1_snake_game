@@ -15,11 +15,42 @@ The game called "Snake" or "Snake Game" typically involve the player controlling
 The player loses when the snake either runs into a border or its own body. Because of this, the game becomes more difficult as it goes on, due to the growth of the snake.Nokia has installed the "Snake Game" on many of its phones. The game is also available on several websites, including YouTube, which allows viewers to play the game while a video loads.
 
 ## Cost and Features and Timeline
-## 
+
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
+STRENGTHS
+
+1.simple and familiar game play.
+
+2.work efficiently and smoothly.
+
+3.Easy to play.
+
+WEAKNESSES
+
+1.classical game.
+
+2.lack new modes.
+
+3.time consuming
+
+OPPORTUNITIES
+
+1.New modifications is possible.
+
+2.Attract gamers likes playing classical games .
+
+3.user friendly and easy accessible.
+
+threats
+
+1.increasing competition
+
+2.need modifications regularly to improve
+
 
 # 4W&#39;s and 1&#39;H
+
 ## Who:
 person with electronic devices need games nowadays for refreshment and relaxing. So, anyone can play this game.
 
