@@ -16,7 +16,6 @@ The player loses when the snake either runs into a border or its own body. Becau
 
 
 ## SWOT ANALYSIS
-
 STRENGTHS
 
 1.simple and familiar game play.
@@ -140,13 +139,9 @@ https://www.youtube.com
 https://www.cs.bham.ac.uk
 
 Books
-
 a. Let us C by Yashwant Kanetkar
-
 b.Programming with C by E Balagurusamy
-
 c.Graphics under C by Yashwant
-
 anotkar
 
 
