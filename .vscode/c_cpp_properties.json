@@ -1,7 +1,22 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "powershall",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        },
+        {
+            "name": "win 32",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
