@@ -16,6 +16,7 @@ The player loses when the snake either runs into a border or its own body. Becau
 
 
 ## SWOT ANALYSIS
+
 STRENGTHS
 
 1.simple and familiar game play.
@@ -46,25 +47,8 @@ threats
 
 2.need modifications regularly to improve
 
+## 4W’S and 1’H
 
-## Snake game
-Requirements
-Introduction
-This Mini Project in C Snake Game is a simple console application without graphics. In this project, you can play the popular “Snake Game” just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.
-
-Research
-Objective
-Snake game gives users a total of three lives to play the game. The life-count decreases as the snake hits the wall or its own body. In this mini project, you can even pause the game in the middle by pressing any key, and you can press any key again to continue.
-
-Features
-In the game of Snake, the player uses the arrow keys to move a "snake" around the board. As the snake finds food, it eats the food, and thereby grows larger. The game ends when the snake either moves off the screen or moves into itself. The goal is to make the snake as large as possible before that happens
-
-SWOT ANALYSIS
-STRENGTHS	WEAKNESS	OPPORTUNITIES	THREATS
-Next level mobile gaming	High level of competition in app markets	Simple mechanics will attract casual gamers	Established competitors from every game
-Available in all mobile platforms	Mobile games are restricted to more simple forms	Gaming market has the greatest sharp of app downloads	Offers in gaming app market growing at a last-top 10 game downloads
-Game development tool that is simple to use, but high in functionality	Lack of data on games from the same game	Top quality design and high developer tools will capture hardcore gamers	Flaws in the In-App Purchasing System. While most of the mobile games rely on in-app purchases for their wholesome
-4W’S and 1’H
 Who:
 It was programmed by Taneli Armanto, a design engineer in Nokia.
 
@@ -100,7 +84,7 @@ Many functions have been used in this Snake Game . Here, I will just list them b
 
 
 
-## SNAKE GAME
+## snake game
 
 Problem Statement
 
