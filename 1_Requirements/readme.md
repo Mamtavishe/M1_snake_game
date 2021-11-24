@@ -14,7 +14,6 @@ The game called "Snake" or "Snake Game" typically involve the player controlling
 
 The player loses when the snake either runs into a border or its own body. Because of this, the game becomes more difficult as it goes on, due to the growth of the snake.Nokia has installed the "Snake Game" on many of its phones. The game is also available on several websites, including YouTube, which allows viewers to play the game while a video loads.
 
-## Cost and Features and Timeline
 
 ## SWOT ANALYSIS
 
@@ -49,23 +48,41 @@ threats
 2.need modifications regularly to improve
 
 
-# 4W&#39;s and 1&#39;H
+## Snake game
+Requirements
+Introduction
+This Mini Project in C Snake Game is a simple console application without graphics. In this project, you can play the popular “Snake Game” just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.
 
-## Who:
-person with electronic devices need games nowadays for refreshment and relaxing. So, anyone can play this game.
+Research
+Objective
+Snake game gives users a total of three lives to play the game. The life-count decreases as the snake hits the wall or its own body. In this mini project, you can even pause the game in the middle by pressing any key, and you can press any key again to continue.
 
-## What:
-A game which can be used to check or enhance our general knowledge.
+Features
+In the game of Snake, the player uses the arrow keys to move a "snake" around the board. As the snake finds food, it eats the food, and thereby grows larger. The game ends when the snake either moves off the screen or moves into itself. The goal is to make the snake as large as possible before that happens
 
-## When:
-One can play this game whenever he/she is free and want some refreshment but also they want to do some productive work.
+SWOT ANALYSIS
+STRENGTHS	WEAKNESS	OPPORTUNITIES	THREATS
+Next level mobile gaming	High level of competition in app markets	Simple mechanics will attract casual gamers	Established competitors from every game
+Available in all mobile platforms	Mobile games are restricted to more simple forms	Gaming market has the greatest sharp of app downloads	Offers in gaming app market growing at a last-top 10 game downloads
+Game development tool that is simple to use, but high in functionality	Lack of data on games from the same game	Top quality design and high developer tools will capture hardcore gamers	Flaws in the In-App Purchasing System. While most of the mobile games rely on in-app purchases for their wholesome
+4W’S and 1’H
+Who:
+It was programmed by Taneli Armanto, a design engineer in Nokia.
 
-## Where:
-It can be played by everyone and everywhere irrespective of their age
+Where:
+The concept of Snake originated from the 1976 arcade game Blockade, developed by a British company called Gremlin Interactive, which shut down in 1984. Blockade was designed as a two-player game in which each would guide their own snakes, leaving a solid line behind them. The line acted as a blockade and the player who lasted longer was the winner.
 
-## How:
-one can simply enter his name and start playing
+What:
+Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
 
+When:
+Snake first appeared on a Nokia device in 1997 on the Nokia 6110. It was adapted for Nokia devices by Taneli Armanto, a Design Engineer, User Interface Software. FIVE. Snake was one of three games introduced in 1997, the others were Logic and Memory.
+
+How:
+The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves.
+
+SYSTEM REQUIREMENTS:
+Operating system:MS Windows XP or Windows Vista Language: C Language-processor: Pentium IV Processor RAM: 512 Mb Hard disk: 5 GB
 
 # Detail requirements
 ## High Level Requirements:
@@ -84,10 +101,6 @@ Many functions have been used in this Snake Game . Here, I will just list them b
 
 
 
-
-##  Low level Requirements:
-
-
 ## SNAKE GAME
 Problem Statement
 
@@ -99,11 +112,6 @@ The c programming language was used to create this Miniproject. Snake Game is a 
 
 The snake can devour the foods that are placed at various co-ordinates on the screen. The length of the snake, as well as the score, will grow by one element each time it consumes the food.
 
-
-## Introduction
-The game called "Snake" or "Snake Game" typically involve the player controlling a line or snake, there is no official version of the game, so gameplay varies. The most common version of the game involves the snake or line eating items which make it longer, with the objective being to avoid running into a border or the snake itself for as long as possible.
-
-The player loses when the snake either runs into a border or its own body. Because of this, the game becomes more difficult as it goes on, due to the growth of the snake.Nokia has installed the "Snake Game" on many of its phones. The game is also available on several websites, including YouTube, which allows viewers to play the game while a video loads.
 
 ## Features
 
