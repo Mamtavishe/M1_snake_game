@@ -101,6 +101,7 @@ Many functions have been used in this Snake Game . Here, I will just list them b
 
 
 ## SNAKE GAME
+
 Problem Statement
 
 As we see that in today's world people miss ancient mobile games of which one we have choose is Snake game. So i decided to build a Snake game which will be
