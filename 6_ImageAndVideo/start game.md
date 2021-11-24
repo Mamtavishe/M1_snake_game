@@ -1,2 +1,4 @@
-## Gameplay
-![game play](https://user-images.githubusercontent.com/94225539/143306284-54484985-600f-4716-abc7-2d009e4da7bc.png)
+## Start game
+![start game](https://user-images.githubusercontent.com/94225539/143305589-b78218f8-bb9c-4669-abff-aa1fb9645eb0.png)
+
+
