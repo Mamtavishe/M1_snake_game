@@ -3,3 +3,4 @@
 [![Unit Testing - Unity](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/unity.yml/badge.svg)](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/unity.yml)
 [![Git Inspector](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/git%20inspector.yml)
 [![static code cppcheck](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Mamtavishe/M1_snake_game/actions/workflows/cppcheck.yml)
+https://api.codiga.io/project/30010/score/svg
