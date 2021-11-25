@@ -6,3 +6,4 @@ This Mini Project in C Snake Game is a simple console application without graphi
 
 https://api.codiga.io/project/30010/score/svg
 https://api.codiga.io/project/30010/status/svg
+codacy-badger:codacy-badge
