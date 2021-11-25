@@ -5,5 +5,4 @@ M1 APPLICATION SNAKE GAME
              
              
  # All the badges github
- https://api.codiga.io/project/30010/status/svg
- https://api.codiga.io/project/30010/score/svg
+ https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/cpp_cheak.yml
