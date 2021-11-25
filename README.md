@@ -1,8 +1,2 @@
-## M1_snake_game
-
-This Mini Project in C Snake Game is a simple console application without graphics. In this project, you can play the popular “Snake Game” just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.
-
-## Code Inspector Badges
-
-https://api.codiga.io/project/30010/score/svg
-https://api.codiga.io/project/30010/status/svg
+# M1_snake_game
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2765dd55e9c74f8abd77dd6d3cad0068)](https://app.codacy.com/gh/Mamtavishe/M1_snake_game?utm_source=github.com&utm_medium=referral&utm_content=Mamtavishe/M1_snake_game&utm_campaign=Badge_Grade_Settings)
